@@ -3,8 +3,9 @@ name: error-analysis-protocol
 description: Systematically analyze model errors to prioritize improvements by impact rather than intuition. "Manually examining mistakes that your algorithm is making can give you insights into what to do next.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.3924
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - error-analysis-protocol
 - structure
